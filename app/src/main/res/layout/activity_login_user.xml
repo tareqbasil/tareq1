@@ -24,6 +24,7 @@
             android:textSize="30sp" />
 
         <EditText
+            android:id="@+id/address1"
             android:layout_width="300dp"
             android:layout_height="50dp"
             android:layout_marginBottom="20dp"
@@ -34,6 +35,7 @@
             android:textSize="14sp" />
 
         <EditText
+            android:id="@+id/pass1"
             android:layout_width="300dp"
             android:layout_height="50dp"
             android:layout_marginBottom="20dp"
@@ -54,6 +56,7 @@
 
 
         <Button
+            android:id="@+id/login"
             android:layout_width="300dp"
             android:layout_height="60dp"
             android:background="@drawable/btn"

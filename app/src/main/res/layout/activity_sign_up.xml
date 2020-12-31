@@ -25,6 +25,7 @@
             android:textSize="22sp" />
 
         <EditText
+            android:id="@+id/namee"
             android:layout_width="300dp"
             android:layout_height="50dp"
             android:layout_marginBottom="20dp"
@@ -35,6 +36,7 @@
             android:textSize="14sp" />
 
         <EditText
+            android:id="@+id/paset1"
             android:layout_width="300dp"
             android:layout_height="50dp"
             android:layout_marginBottom="20dp"
@@ -45,6 +47,7 @@
             android:textSize="14sp" />
 
         <EditText
+            android:id="@+id/emailet1"
             android:layout_width="300dp"
             android:layout_height="50dp"
             android:layout_marginBottom="35dp"
@@ -56,6 +59,7 @@
 
 
         <Button
+            android:id="@+id/signupbtn"
             android:layout_width="300dp"
             android:layout_height="60dp"
             android:background="@drawable/btn"
@@ -72,6 +76,7 @@
             android:textSize="18dp" />
 
         <TextView
+            android:id="@+id/signtv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
